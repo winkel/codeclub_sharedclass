@@ -1,4 +1,4 @@
-codeguru_sharedclass
+codeclub_sharedclass
 ====================
 Repozytorium przechowuje przykładowy program powstały na potrzeby wątku:
 Zmienne znane w Form1 i Form2 C#

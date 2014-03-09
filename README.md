@@ -1,0 +1,2 @@
+codeguru_sharedclass
+====================
